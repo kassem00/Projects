@@ -1,0 +1,4 @@
+﻿  server.c
+F:\ES\P_E_S\5_C_Project_1\Payment Application\Server\server.c(170,20): warning C4018: '<': signed/unsigned mismatch
+  LINK : F:\ES\P_E_S\5_C_Project_1\Payment Application\x64\Debug\Payment Application.exe not found or not built by the last incremental link; performing full link
+  Payment Application.vcxproj -> F:\ES\P_E_S\5_C_Project_1\Payment Application\x64\Debug\Payment Application.exe
